@@ -1,6 +1,6 @@
 # WatchParty
 
-![screenshot](https://github.com/howardchung/watchparty/raw/master/public/screenshot_full.png)
+![screenshot](https://github.com/bkarich/kb-watchparty/raw/master/public/screenshot_full.png)
 
 An website for watching videos together.
 
@@ -22,7 +22,7 @@ An website for watching videos together.
 
 ## Quick Start
 
-- Clone this repo via `git clone git@github.com:howardchung/watchparty.git`
+- Clone this repo via `git clone git@github.com:bkarich/kb-watchparty.git`
 - Install npm dependencies for the project via `npm install`
 - Start the server via `PORT=8080 npm run dev`
   - Defaults to port 8080, customize with `PORT` env var
